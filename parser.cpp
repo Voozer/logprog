@@ -1,3 +1,6 @@
+//вариант 3: преобразовать файл в формате GEDCOM в набор утверждений на языке Prolog
+//с использованием предиката child(ребенок, родитель), male(человек), female(человек)
+
 #include <iostream>
 #include <string>
 #include <vector>
